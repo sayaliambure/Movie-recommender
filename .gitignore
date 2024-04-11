@@ -1,0 +1,7 @@
+recommender_system
+# virtual env
+setup.sh
+Procfile
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+.ipynb_checkpoints
