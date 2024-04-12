@@ -8,4 +8,4 @@ Check out the hosted Website:  https://movie-recommender-system10.streamlit.app/
 
 Dataset used: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-![Screenshot (135)](https://github.com/sayaliambure/Movie-recommender/assets/89408981/71811009-f04f-4682-abb8-6b93d265af2a)
+![Uploading Screenshot (135).png…]()
