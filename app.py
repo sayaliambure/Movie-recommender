@@ -6,6 +6,7 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 from wordcloud import WordCloud
+# API key: 8265bd1679663a7ea12ac168da84d2e8
 
 
 def fetch_poster(movie_id):
